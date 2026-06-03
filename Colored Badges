@@ -753,6 +753,6 @@
       "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
       "type": "filter"
-    },
+    }
   ]
 }
