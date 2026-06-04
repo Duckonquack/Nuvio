@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.0"
+   width="504.000000pt"
+   height="320.000000pt"
+   viewBox="0 0 504.000000 320.000000"
+   preserveAspectRatio="xMidYMid meet"
+   id="svg3"
+   sodipodi:docname="color-HDR.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3">
+    <linearGradient
+       id="linearGradient3"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3" />
+      <stop
+         style="stop-color:#cba6f7;stop-opacity:1"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3"
+       id="linearGradient4"
+       x1="230.67896"
+       y1="2234.3672"
+       x2="4774.5181"
+       y2="844.92877"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="pt"
+     inkscape:zoom="1.3980469"
+     inkscape:cx="316.51299"
+     inkscape:cy="215.658"
+     inkscape:window-width="2560"
+     inkscape:window-height="1380"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <metadata
+     id="metadata1">
+Created by potrace 1.16, written by Peter Selinger 2001-2019
+</metadata>
+  <g
+     transform="translate(0.000000,320.000000) scale(0.100000,-0.100000)"
+     fill="#ffffff"
+     stroke="none"
+     id="g3"
+     style="fill-opacity:1.0;stroke:url(#linearGradient4);fill:#cba6f7">
+    <path
+       d="M0 1600 l0 -930 195 0 195 0 0 385 0 385 400 0 400 0 0 -385 0 -385 200 0 200 0 0 930 0 930 -200 0 -200 0 0 -385 0 -385 -397 2 -398 3 -3 383 -2 382 -195 0 -195 0 0 -930z"
+       id="path1"
+       style="fill-opacity:1.0;stroke:url(#linearGradient4);fill:#cba6f7" />
+    <path
+       d="M1810 1600 l0 -930 384 0 c415 0 486 6 635 56 158 53 319 179 407 320 159 255 189 678 69 977 -85 212 -268 382 -490 456 -136 45 -211 51 -626 51 l-379 0 0 -930z m865 561 c216 -78 307 -246 306 -561 0 -317 -91 -483 -306 -561 -53 -19 -86 -23 -267 -27 l-208 -4 0 592 0 592 208 -4 c181 -4 214 -8 267 -27z"
+       id="path2"
+       style="fill-opacity:1.0;stroke:url(#linearGradient4);fill:#cba6f7" />
+    <path
+       d="M3570 1601 l0 -931 195 0 195 0 0 330 0 330 144 0 144 0 175 -327 175 -328 216 -3 c119 -1 216 0 216 4 0 3 -85 162 -190 353 -104 191 -190 351 -190 357 0 5 28 25 61 44 202 115 298 369 243 638 -44 218 -194 371 -429 439 -52 15 -120 18 -507 21 l-448 3 0 -930z m821 585 c110 -40 169 -129 169 -255 0 -101 -16 -147 -70 -201 -67 -68 -120 -80 -348 -80 l-182 0 0 281 0 281 193 -4 c146 -4 203 -9 238 -22z"
+       id="path3"
+       style="fill-opacity:1.0;stroke:url(#linearGradient4);fill:#cba6f7" />
+  </g>
+</svg>

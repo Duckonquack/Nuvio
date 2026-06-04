@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.0"
+   width="272.000000pt"
+   height="320.000000pt"
+   viewBox="0 0 272.000000 320.000000"
+   preserveAspectRatio="xMidYMid meet"
+   id="svg1"
+   sodipodi:docname="color-4k.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#f9e2af;stop-opacity:1"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="153.0316"
+       y1="2355.5935"
+       x2="2503.1597"
+       y2="773.35608"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="pt"
+     inkscape:zoom="2.7445313"
+     inkscape:cx="181.26957"
+     inkscape:cy="213.33333"
+     inkscape:window-width="2560"
+     inkscape:window-height="1380"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <metadata
+     id="metadata1">
+Created by potrace 1.16, written by Peter Selinger 2001-2019
+</metadata>
+  <g
+     transform="translate(0.000000,320.000000) scale(0.100000,-0.100000)"
+     fill="#ffffff"
+     stroke="none"
+     id="g1"
+     style="fill-opacity:1;stroke:url(#linearGradient2);fill:#f9e2af;stroke-linejoin:miter">
+    <path
+       d="M407 1953 l-387 -608 0 -202 0 -203 465 0 465 0 0 -150 0 -150 255 0 255 0 0 246 0 245 67 87 c37 48 77 99 88 113 l22 27 214 -359 214 -358 313 -1 312 0 -48 77 c-327 522 -612 983 -612 987 0 3 141 192 313 419 172 226 317 418 321 425 6 9 -56 12 -296 12 l-303 -1 -289 -390 c-159 -214 -294 -388 -300 -386 -8 3 -12 117 -14 390 l-2 387 -334 0 -333 0 -386 -607z m550 -600 c-2 -2 -99 -2 -215 -1 l-211 3 180 285 c99 157 194 308 212 335 l32 50 3 -334 c1 -184 1 -336 -1 -338z"
+       id="path1"
+       style="fill-opacity:1;stroke:url(#linearGradient2);fill:#f9e2af;stroke-linejoin:miter" />
+  </g>
+</svg>
