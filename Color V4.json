@@ -164,7 +164,7 @@
     {
       "groupId": "gq",
       "id": "q-w",
-      "imageURL": "https://github.com/Duckonquack/Nuvio/raw/refs/heads/main/color/color-webrip.svg",
+      "imageURL": "https://github.com/Duckonquack/Nuvio/raw/refs/heads/main/color/color-webdl.svg",
       "isEnabled": true,
       "name": "WebDL",
       "pattern": "(?i)\\b(?:web[-_. ]?dl|webdl|web(?![-_. ]?rip)\\b)",
@@ -177,7 +177,7 @@
     {
       "groupId": "gq",
       "id": "q-w",
-      "imageURL": "https://raw.githubusercontent.com/starkles/Nuvio-sven-badges/main/grey-webrip.svg",
+      "imageURL": "https://raw.githubusercontent.com/Duckonquack/Nuvio/refs/heads/main/color/color-webrip.svg",
       "isEnabled": true,
       "name": "WebRip",
       "pattern": "(?i)\\bweb[-_. ]?rip\\b",
