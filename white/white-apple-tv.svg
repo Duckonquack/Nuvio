@@ -1,1 +1,137 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 512 512"><path d="M143.7 167.7c9.6-11.7 14.5-26.7 13.4-41.8-14.9 1.5-28.5 8.6-38.2 20-9.8 11-14.6 25.5-13.7 40.1 14.9.3 29.1-6.5 38.5-18.3m12.4 21c-21.3-1.2-39.3 12.2-49.4 12.2S81 189.4 64.2 189.6c-22.4.7-42.6 13.1-53.3 32.7-22.8 39.7-6 98.6 16.1 130.8 10.9 15.3 23.7 33.6 41 33s22.5-10.7 42.2-10.7 25.5 10.7 42.5 10.3 28.9-15.4 39.7-32c7.6-11.4 13.7-23.7 17.8-36.8-20.9-9.2-34.4-29.9-34.6-52.8.3-20.2 10.7-38.9 27.9-49.6-11.1-15.3-28.5-25-47.4-25.8m136-30.7v43.5h34.7v28.7h-34.7v102.9c0 15.4 6.8 23.2 22.1 23.2 4.2-.1 8.3-.4 12.5-.9v28.9c-6.8 1.1-13.7 1.6-20.5 1.5-35.9 0-49.8-13.9-49.8-49v-106H229V202h26.5v-44.1zm156.1 226.2h-38.1l-63.9-182.1h37.9L429 348.4h.9l44.9-146.3H512z" style="fill:#fff"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.0"
+   width="732.000000pt"
+   height="320.000000pt"
+   viewBox="0 0 732.000000 320.000000"
+   preserveAspectRatio="xMidYMid meet"
+   id="svg4"
+   sodipodi:docname="white-apple-tv.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4">
+    <radialGradient
+       id="disney-plus_svg__a"
+       cx="463.58899"
+       cy="533.71301"
+       r="374.05801"
+       gradientTransform="matrix(1.0885105,0,0,1.0885105,61.352771,-397.39295)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.007"
+         style="stop-color:#ffffff;stop-opacity:1;"
+         id="stop1" />
+      <stop
+         offset="0.03"
+         style="stop-color:#ffffff;stop-opacity:1;"
+         id="stop2" />
+      <stop
+         offset="0.057"
+         style="stop-color:#ffffff;stop-opacity:1;"
+         id="stop3" />
+      <stop
+         offset="0.084"
+         style="stop-color:#ffffff;stop-opacity:1;"
+         id="stop4" />
+      <stop
+         offset="0.111"
+         style="stop-color:#ffffff;stop-opacity:1;"
+         id="stop5" />
+      <stop
+         offset="0.138"
+         style="stop-color:#ffffff;stop-opacity:1;"
+         id="stop6" />
+      <stop
+         offset="0.16500001"
+         style="stop-color:#ffffff;stop-opacity:1;"
+         id="stop7" />
+      <stop
+         offset="0.191"
+         style="stop-color:#fffffe;stop-opacity:1;"
+         id="stop8" />
+      <stop
+         offset="0.21600001"
+         style="stop-color:#ffffff;stop-opacity:1;"
+         id="stop9" />
+      <stop
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0;"
+         id="stop10" />
+    </radialGradient>
+    <linearGradient
+       id="SVGID_1_"
+       gradientUnits="userSpaceOnUse"
+       x1="1041.5187"
+       y1="325.6485"
+       x2="1660.9564"
+       y2="325.6485"
+       gradientTransform="matrix(0.46878148,0,0,-0.46878148,-593.76682,589.92314)">
+		<stop
+   offset="0"
+   style="stop-color:#991EEB"
+   id="stop1-7" />
+
+		<stop
+   offset="0.4"
+   style="stop-color:#5822B4"
+   id="stop2-5" />
+
+		<stop
+   offset="0.73"
+   style="stop-color:#5822B4"
+   id="stop3-3" />
+
+		<stop
+   offset="1"
+   style="stop-color:#991EEB"
+   id="stop4-5" />
+
+	</linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="pt"
+     inkscape:zoom="1.2484631"
+     inkscape:cx="376.46286"
+     inkscape:cy="202.24867"
+     inkscape:window-width="2560"
+     inkscape:window-height="1380"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <metadata
+     id="metadata1">
+Created by potrace 1.16, written by Peter Selinger 2001-2019
+</metadata>
+  <g
+     id="g7">
+    <path
+       style="fill:#ffffff;stroke-width:1.22991"
+       d="M 602.3719,317.66607 H 555.51219 L 476.92071,93.698822 h 46.61373 l 55.22312,179.936338 h 1.10692 L 635.0876,93.698822 h 45.75278 z"
+       id="path7" />
+    <path
+       style="fill:#ffffff;stroke-width:1.22991"
+       d="m 410.38239,39.459633 v 53.50124 h 42.678 v 35.298517 h -42.678 v 126.5581 c 0,18.94067 8.36341,28.53399 27.18109,28.53399 5.16564,-0.12299 10.20828,-0.49196 15.37392,-1.10692 v 35.5445 c -8.36341,1.35291 -16.84982,1.96786 -25.21323,1.84487 -44.1539,0 -61.24969,-17.0958 -61.24969,-60.26576 V 128.99734 H 332.77484 V 93.57583 h 32.59271 V 39.336642 Z"
+       id="path6" />
+    <path
+       style="fill:#ffffff;stroke-width:1.22991"
+       d="m 243.11415,77.21798 c -26.19716,-1.475896 -48.3356,15.004945 -60.75773,15.004945 -12.42213,0 -31.60878,-14.144006 -52.27133,-13.898023 -27.55006,0.860939 -52.394317,16.111868 -65.554391,40.218168 -28.042029,48.82756 -7.379481,121.26947 19.801608,160.87269 13.406057,18.81768 29.148953,41.32509 50.426453,40.58715 21.27751,-0.73795 27.67306,-13.16008 51.90236,-13.16008 24.22929,0 31.36279,13.16008 52.27132,12.66811 20.90853,-0.49197 35.5445,-18.94067 48.82757,-39.35723 9.34734,-14.02102 16.84981,-29.14896 21.89246,-45.26082 -25.70519,-11.31521 -42.30903,-36.77442 -42.55501,-64.93944 0.36897,-24.84424 13.16008,-47.84363 34.31459,-61.0037 -13.65204,-18.817678 -35.05254,-30.747839 -58.2979,-31.73177"
+       id="path5" />
+    <path
+       style="fill:#ffffff;stroke-width:1.22991"
+       d="M 227.86322,51.389795 C 239.67039,36.999806 245.69696,18.551103 244.34406,-0.02059213 226.01835,1.8242782 209.29153,10.556664 197.36136,24.577679 c -12.05315,13.52905 -17.95673,31.362796 -16.84981,49.319534 18.32571,0.368974 35.79048,-7.994438 47.35167,-22.507418"
+       id="path1-0" />
+  </g>
+</svg>
