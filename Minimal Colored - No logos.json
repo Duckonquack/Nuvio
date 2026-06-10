@@ -69,7 +69,7 @@
       "tagStyle": "bordered",
       "textColor": "#FFFFFF",
       "type": "filter",
-      "borderColor": "#FFFFFF"
+      "borderColor": "#f9e2af"
     },
     {
       "groupId": "gr",
@@ -82,7 +82,7 @@
       "tagStyle": "bordered",
       "textColor": "#FFFFFF",
       "type": "filter",
-      "borderColor": "#FFFFFF"
+      "borderColor": "#f9e2af"
     },
     {
       "groupId": "gr",
@@ -160,7 +160,7 @@
       "tagStyle": "bordered",
       "textColor": "#FFFFFF",
       "type": "filter",
-      "borderColor": "#FFFFFF"
+      "borderColor": "#a6e3a1"
     },
     {
       "groupId": "gq",
@@ -173,7 +173,7 @@
       "tagStyle": "bordered",
       "textColor": "#FFFFFF",
       "type": "filter",
-      "borderColor": "#FFFFFF"
+      "borderColor": "#89b4fa"
     },
     {
       "groupId": "gq",
@@ -186,7 +186,7 @@
       "tagStyle": "bordered",
       "textColor": "#FFFFFF",
       "type": "filter",
-      "borderColor": "#FFFFFF"
+      "borderColor": "#f38ba8"
     },
     {
       "groupId": "gq",
@@ -199,7 +199,7 @@
       "tagStyle": "bordered",
       "textColor": "#888d93",
       "type": "filter",
-      "borderColor": "#888d93"
+      "borderColor": "#eba0ac"
     },
     {
       "groupId": "gq",
@@ -277,7 +277,7 @@
       "tagStyle": "bordered",
       "textColor": "#FFFFFF",
       "type": "filter",
-      "borderColor": "#FFFFFF"
+      "borderColor": "#b4befe"
     },
     {
       "groupId": "gv",
@@ -303,7 +303,7 @@
       "tagStyle": "bordered",
       "textColor": "#FFFFFF",
       "type": "filter",
-      "borderColor": "#FFFFFF"
+      "borderColor": "#cba6f7"
     },
     {
       "groupId": "gv",
@@ -316,7 +316,7 @@
       "tagStyle": "bordered",
       "textColor": "#FFFFFF",
       "type": "filter",
-      "borderColor": "#FFFFFF"
+      "borderColor": "#cba6f7"
     },
     {
       "groupId": "gv",
