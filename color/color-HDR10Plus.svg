@@ -16,6 +16,46 @@
   <defs
      id="defs6">
     <linearGradient
+       id="linearGradient27"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#f38ba8;stop-opacity:1;"
+         offset="0"
+         id="stop28" />
+      <stop
+         style="stop-color:#eba0ac;stop-opacity:1;"
+         offset="0.10136016"
+         id="stop29" />
+      <stop
+         style="stop-color:#fab387;stop-opacity:1;"
+         offset="0.24248539"
+         id="stop30" />
+      <stop
+         style="stop-color:#f9e2af;stop-opacity:1;"
+         offset="0.37145346"
+         id="stop31" />
+      <stop
+         style="stop-color:#a6e3a1;stop-opacity:1;"
+         offset="0.51954246"
+         id="stop32" />
+      <stop
+         style="stop-color:#94e2d5;stop-opacity:1;"
+         offset="0.64595318"
+         id="stop33" />
+      <stop
+         style="stop-color:#89dceb;stop-opacity:1;"
+         offset="0.7363646"
+         id="stop34" />
+      <stop
+         style="stop-color:#74c7ec;stop-opacity:1;"
+         offset="0.84312052"
+         id="stop35" />
+      <stop
+         style="stop-color:#89b4fa;stop-opacity:1;"
+         offset="1"
+         id="stop27" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient20"
        inkscape:collect="always">
       <stop
@@ -110,37 +150,73 @@
        xlink:href="#linearGradient16"
        id="linearGradient9"
        x1="362.80673"
-       y1="2187.1646"
-       x2="7875.9292"
-       y2="856.87323"
+       y1="1650.5129"
+       x2="8125.3589"
+       y2="1673.1884"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient14"
        id="linearGradient10"
        x1="362.80673"
-       y1="2187.1646"
-       x2="7875.9292"
-       y2="856.87323"
+       y1="1650.5129"
+       x2="8125.3589"
+       y2="1673.1884"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient12"
        id="linearGradient11"
        x1="362.80673"
-       y1="2187.1646"
-       x2="7875.9292"
-       y2="856.87323"
+       y1="1650.5129"
+       x2="8125.3589"
+       y2="1673.1884"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient20"
        id="linearGradient19"
-       x1="7921.2803"
-       y1="2255.1909"
+       x1="5623.0044"
+       y1="2348.7905"
        x2="9017.2588"
        y2="1302.8231"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient27"
+       id="linearGradient26"
+       x1="5532.3027"
+       y1="1638.2941"
+       x2="9200.5"
+       y2="1600.5017"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient27"
+       id="linearGradient35"
+       gradientUnits="userSpaceOnUse"
+       x1="5623.0044"
+       y1="2348.7905"
+       x2="9017.2588"
+       y2="1302.8231" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient27"
+       id="linearGradient36"
+       gradientUnits="userSpaceOnUse"
+       x1="5623.0044"
+       y1="2348.7905"
+       x2="9017.2588"
+       y2="1302.8231" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient27"
+       id="linearGradient37"
+       gradientUnits="userSpaceOnUse"
+       x1="5623.0044"
+       y1="2348.7905"
+       x2="9017.2588"
+       y2="1302.8231" />
   </defs>
   <sodipodi:namedview
      id="namedview6"
@@ -153,7 +229,7 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="pt"
      inkscape:zoom="0.99226384"
-     inkscape:cx="574.94789"
+     inkscape:cx="575.45179"
      inkscape:cy="146.63439"
      inkscape:window-width="2560"
      inkscape:window-height="1380"
@@ -170,7 +246,7 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
      fill="#ffffff"
      stroke="none"
      id="g6"
-     style="fill:#cba6f7;fill-opacity:1">
+     style="fill:url(#linearGradient26);fill-opacity:1">
     <path
        d="M0 1600 l0 -930 195 0 195 0 0 385 0 385 400 0 400 0 0 -385 0 -385 200 0 200 0 0 930 0 930 -200 0 -200 0 0 -385 0 -385 -397 2 -398 3 -3 383 -2 382 -195 0 -195 0 0 -930z"
        id="path1"
@@ -186,14 +262,14 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
     <path
        d="M5360 2325 l0 -195 45 0 45 0 0 -720 0 -720 220 0 220 0 0 915 0 915 -265 0 -265 0 0 -195z"
        id="path4"
-       style="fill-opacity:1;stroke:url(#linearGradient8);fill:#cba6f7" />
+       style="fill-opacity:1;stroke:url(#linearGradient8);fill:url(#linearGradient35)" />
     <path
        d="M6555 2505 c-259 -41 -406 -174 -463 -416 -15 -64 -17 -131 -17 -499 1 -408 2 -428 23 -505 59 -211 169 -322 382 -382 60 -16 112 -18 625 -18 550 0 561 1 640 23 267 75 358 211 372 555 l6 147 -211 0 -210 0 -4 -134 c-3 -117 -6 -138 -24 -162 -11 -15 -31 -31 -45 -34 -13 -4 -249 -4 -524 -1 -568 7 -556 5 -591 84 -18 38 -19 72 -19 442 0 384 1 401 20 435 12 19 38 44 60 55 39 19 65 20 777 25 l736 5 -18 54 c-67 187 -222 298 -463 331 -115 15 -951 11 -1052 -5z"
        id="path5"
-       style="fill-opacity:1;stroke:url(#linearGradient7);fill:#cba6f7" />
+       style="fill-opacity:1;stroke:url(#linearGradient7);fill:url(#linearGradient36)" />
     <path
        d="M8250 2235 l0 -265 -275 0 -275 0 0 -205 0 -205 275 0 275 0 2 -267 3 -268 208 -3 207 -2 0 270 0 270 265 0 265 0 0 205 0 205 -265 0 -265 0 0 265 0 265 -210 0 -210 0 0 -265z"
        id="path6"
-       style="fill:#f9e2af;fill-opacity:1;stroke:url(#linearGradient19)" />
+       style="fill:url(#linearGradient37);fill-opacity:1;stroke:url(#linearGradient19)" />
   </g>
 </svg>
