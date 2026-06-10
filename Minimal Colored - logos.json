@@ -566,30 +566,6 @@
       "borderColor": "#888d93"
     },
     {
-      "id": "b-b7qogb-2",
-      "name": "NOTCACHE",
-      "groupId": "debrid",
-      "imageURL": "https://cdn.jsdelivr.net/gh/Duckonquack/Nuvio@main/color/color-not-cached.svg",
-      "isEnabled": true,
-      "pattern": "(?i)\bnot\s+cached\b",
-      "tagColor": "#00000000",
-      "textColor": "#e78284",
-      "borderColor": "#e78284",
-      "tagStyle": "bordered"
-    },
-    {
-      "id": "gco-cache-2",
-      "name": "CACHE",
-      "groupId": "debrid",
-      "imageURL": "https://cdn.jsdelivr.net/gh/Duckonquack/Nuvio@main/color/color-cached.svg",
-      "isEnabled": true,
-      "pattern": "(?i)\b(?<!not )cached\b",
-      "tagColor": "#00000000",
-      "textColor": "#a6d189",
-      "borderColor": "#a6d189",
-      "tagStyle": "bordered"
-    },
-    {
       "id": "streamers-crunchyroll",
       "name": "Crunchyroll",
       "groupId": "streamers",

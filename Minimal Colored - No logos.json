@@ -564,30 +564,6 @@
       "textColor": "#888d93",
       "type": "filter",
       "borderColor": "#888d93"
-    },
-    {
-      "id": "b-b7qogb-2",
-      "name": "NOTCACHED",
-      "groupId": "debrid",
-      "imageURL": "https://cdn.jsdelivr.net/gh/Duckonquack/Nuvio@main/color/color-not-cached.svg",
-      "isEnabled": true,
-      "pattern": "(?i)\bnot\s+cached\b",
-      "tagColor": "#1A1A1A",
-      "textColor": "#e78284",
-      "borderColor": "#e78284",
-      "tagStyle": "filled"
-    },
-    {
-      "id": "gco-cache-2",
-      "name": "CACHED",
-      "groupId": "debrid",
-      "imageURL": "https://cdn.jsdelivr.net/gh/Duckonquack/Nuvio@main/color/color-cached.svg",
-      "isEnabled": true,
-      "pattern": "(?i)\b(?<!not )cached\b",
-      "tagColor": "#1A1A1A",
-      "textColor": "#a6d189",
-      "borderColor": "#a6d189",
-      "tagStyle": "filled"
     }
   ]
 }
