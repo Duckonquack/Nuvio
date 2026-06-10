@@ -588,18 +588,6 @@
       "textColor": "#a6d189",
       "borderColor": "#a6d189",
       "tagStyle": "filled"
-    },
-    {
-      "id": "gs-nflx",
-      "name": "☑ netflix",
-      "groupId": "streamers",
-      "imageURL": "",
-      "isEnabled": true,
-      "pattern": "(?i)\\bcached\\b",
-      "tagColor": "#1A1A1A",
-      "textColor": "#a6d189",
-      "borderColor": "#a6d189",
-      "tagStyle": "filled"
     }
   ]
 }
