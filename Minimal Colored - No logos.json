@@ -567,9 +567,9 @@
     },
     {
       "id": "b-b7qogb-2",
-      "name": "☒ CACHE",
+      "name": "NOTCACHED",
       "groupId": "debrid",
-      "imageURL": "",
+      "imageURL": "https://cdn.jsdelivr.net/gh/Duckonquack/Nuvio@main/color/color-not-cached.svg",
       "isEnabled": true,
       "pattern": "(?i)\\bnot\\s+cached\\b",
       "tagColor": "#1A1A1A",
@@ -579,9 +579,9 @@
     },
     {
       "id": "gco-cache-2",
-      "name": "☑ CACHE",
+      "name": "CACHED",
       "groupId": "debrid",
-      "imageURL": "",
+      "imageURL": "https://cdn.jsdelivr.net/gh/Duckonquack/Nuvio@main/color/color-cached.svg",
       "isEnabled": true,
       "pattern": "(?i)\\bcached\\b",
       "tagColor": "#1A1A1A",
