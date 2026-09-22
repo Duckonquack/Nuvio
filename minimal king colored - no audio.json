@@ -263,8 +263,8 @@
       "pattern": "(?s)^(?=.*⁣‌‌‍‌‌‍‌‍⁤)",
       "imageURL": "https://cdn.jsdelivr.net/gh/Duckonquack/Nuvio@main/color/color-webrip.svg",
       "tagColor": "#000000",
-      "borderColor": "#FFFFFF",
-      "textColor": "#FFFFFF",
+      "borderColor": "#f38ba8",
+      "textColor": "#f38ba8",
       "tagStyle": "bordered",
       "type": "filter"
     },
